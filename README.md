@@ -18,6 +18,6 @@ Thank you for your interest in contributing to this project. Feel free to fork t
 This project does not have a specific license. You are free to use, modify, and distribute it as you see fit.
 
 ## Questions or Issues
-If you have any questions about the project or run into any issues, please [open an issue](https://github.com/your_username/vrinda-stores-annual-analysis/issues).
+If you have any questions about the project or run into any issues, please [open an issue](https://github.com/Coding-scorpion/vrinda-stores-annual-analysis/issues).
 
 
