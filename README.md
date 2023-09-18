@@ -1,4 +1,4 @@
-# Vrinda Stores Annual Analysis
+
 # Vrinda Stores Annual Analysis
 
 ## Project Description
