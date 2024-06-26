@@ -4,6 +4,7 @@
 ## Project Description
 The Vrinda Stores Annual Analysis project is a comprehensive Excel data analysis aimed at providing insights into the yearly performance of Vrinda Stores. Leveraging powerful Excel functions and techniques, this project tackles specific questions related to sales, expenses, and overall profitability.
 ![vrinda store Annual Analysis](./Dashboard.GIF)
+https://github.com/Coding-Scorpion/Vrinda-Store-Annual-Analysis/blob/main/Dashboard.gif
 ## Installation
 To get started, follow these steps:
 
